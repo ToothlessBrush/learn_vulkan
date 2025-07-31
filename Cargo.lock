@@ -780,6 +780,7 @@ dependencies = [
 name = "learn_vulkan"
 version = "0.1.0"
 dependencies = [
+ "anyhow",
  "image",
  "vulkano",
  "vulkano-shaders",
